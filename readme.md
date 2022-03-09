@@ -25,4 +25,19 @@ roslaunch Robotics maze.launch
 rosrun Robotics tasks.py
 ```
 
+## How to edit
+**1)** Edit your local copy however you would like. \
+**2)** Add all changes locally.
+```bash
+git add -A
+```
+**3)** Commit added changes locally.
+```bash
+git commit -m "Some message"
+```
+**4)** Push local changes to the online main branch.
+```bash
+git push -u origin main
+```
+
 Authors: N. Vraa, D. Felsager, A. Noertoft
